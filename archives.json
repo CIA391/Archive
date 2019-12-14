@@ -63,7 +63,92 @@
       "removalDateApproximate": true,
       "archivalDate": "TODO",
       "thumb": "H3-Halo3DotCom.jpg"
+    },  
+    {
+      "title": "Halo 3: Cradle of Life",
+      "alts": ["IRIS: Cradle of Life", "Cradle of Life"],
+      "href": "/halo3/cradleoflife/",
+      "category": "H3",
+      "releaseDate": 20070000,
+      "releaseDateApproximate": true,
+      "removalDate": 30000000,
+      "removalDateApproximate": true,
+      "archivalDate": "TODO",
+      "thumb": "H3-CradleofLife.jpg"
     },
+    {
+      "title": "IRIS: Server 1",
+      "alts": ["Server 1", "Episode 1"],
+      "href": "/halo3/server/#01",
+      "category": "H3",
+      "releaseDate": 20070000,
+      "releaseDateApproximate": true,
+      "removalDate": 30000000,
+      "removalDateApproximate": true,
+      "archivalDate": "TODO",
+      "thumb": "H3-IRIS1.jpg"
+    },
+    {
+      "title": "IRIS: Server 2",
+      "alts": ["Server 2", "Episode 2"],
+      "href": "/halo3/server/#02",
+      "category": "H3",
+      "releaseDate": 20070000,
+      "releaseDateApproximate": true,
+      "removalDate": 30000000,
+      "removalDateApproximate": true,
+      "archivalDate": "TODO",
+      "thumb": "H3-IRIS2.jpg"
+    },
+    {
+      "title": "IRIS: Server 3",
+      "alts": ["Server 3", "Episode 3"],
+      "href": "/halo3/server/#03",
+      "category": "H3",
+      "releaseDate": 20070000,
+      "releaseDateApproximate": true,
+      "removalDate": 30000000,
+      "removalDateApproximate": true,
+      "archivalDate": "TODO",
+      "thumb": "H3-IRIS3.jpg"
+    },
+    {
+      "title": "IRIS: Server 4",
+      "alts": ["Server 4", "Episode 4"],
+      "href": "/halo3/server/#04",
+      "category": "H3",
+      "releaseDate": 20070000,
+      "releaseDateApproximate": true,
+      "removalDate": 30000000,
+      "removalDateApproximate": true,
+      "archivalDate": "TODO",
+      "thumb": "H3-IRIS4.jpg"
+    },
+    {
+      "title": "IRIS: Server 5",
+      "alts": ["Server 5", "Episode 5"],
+      "href": "/halo3/server/#05",
+      "category": "H3",
+      "releaseDate": 20070000,
+      "releaseDateApproximate": true,
+      "removalDate": 30000000,
+      "removalDateApproximate": true,
+      "archivalDate": "TODO",
+      "thumb": "H3-IRIS5.jpg"
+    },
+    {
+      "title": "IRIS Campaign Overview",
+      "alts": ["Campaign Overview"],
+      "href": "/halo3/campaign",
+      "category": "H3",
+      "releaseDate": 20070000,
+      "releaseDateApproximate": true,
+      "removalDate": 30000000,
+      "removalDateApproximate": true,
+      "archivalDate": "TODO",
+      "thumb": "H3-IRISCampaign.jpg"
+    },
+    
     {
       "title": "Pre-Mission Evaluations",
       "alts": ["Pre-Misison Evals", "ONI Candidate Assessment Program V5.02A"],
